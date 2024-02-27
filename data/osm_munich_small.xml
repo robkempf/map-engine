@@ -1,0 +1,124 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="osmconvert 0.8.5" timestamp="2016-10-15T15:02:02Z">
+        <bounds minlat="48.061" minlon="11.359" maxlat="48.248" maxlon="11.723"/>
+        <node id="128218" lat="48.1963217" lon="11.3599471" version="6" timestamp="2012-10-15T20:53:25Z" changeset="13511613" uid="247670" user="burt13de"/>
+        <node id="128219" lat="48.1958118" lon="11.3609707" version="6" timestamp="2012-10-15T20:53:25Z" changeset="13511613" uid="247670" user="burt13de"/>
+        <node id="128221" lat="48.1943968" lon="11.365889" version="7" timestamp="2013-02-27T15:23:20Z" changeset="15185872" uid="247670" user="burt13de"/>
+        <node id="128225" lat="48.1922676" lon="11.3732879" version="10" timestamp="2013-02-28T09:27:05Z" changeset="15193730" uid="247670" user="burt13de"/>
+        <node id="128226" lat="48.1914353" lon="11.3745386" version="4" timestamp="2012-10-15T21:17:55Z" changeset="13511635" uid="247670" user="burt13de">
+                <tag k="highway" v="traffic_signals"/>
+        </node>
+        <node id="128227" lat="48.1896608" lon="11.3772525" version="12" timestamp="2013-03-11T13:33:20Z" changeset="15327850" uid="247670" user="burt13de"/>
+        <node id="128228" lat="48.1881285" lon="11.3799044" version="12" timestamp="2012-02-20T17:31:48Z" changeset="10742748" uid="605110" user="M-Team"/>
+        <node id="128231" lat="48.1846341" lon="11.386392" version="6" timestamp="2012-01-03T00:02:51Z" changeset="10277635" uid="7596" user="ck3d"/>
+        <node id="128232" lat="48.1834391" lon="11.3881307" version="9" timestamp="2015-05-21T22:48:24Z" changeset="31357735" uid="57645" user="KartoGrapHiti">
+                <tag k="bus" v="yes"/>
+                <tag k="ref" v="830"/>
+                <tag k="name" v="Gröbenzell Am Sandberg"/>
+                <tag k="highway" v="bus_stop"/>
+                <tag k="network" v="MVV"/>
+                <tag k="shelter" v="yes"/>
+                <tag k="operator" v="MVG"/>
+                <tag k="wheelchair" v="yes"/>
+        </node>
+        <node id="128233" lat="48.1826871" lon="11.388769" version="4" timestamp="2012-11-19T20:30:53Z" changeset="13936296" uid="1064962" user="robs80">
+                <tag k="highway" v="traffic_signals"/>
+        </node>
+        <node id="128234" lat="48.1822347" lon="11.3892624" version="7" timestamp="2009-02-08T18:56:51Z" changeset="277463" uid="37197" user="kernl"/>
+        <node id="128235" lat="48.1806124" lon="11.3928244" version="5" timestamp="2011-01-10T22:54:24Z" changeset="6932206" uid="42393" user="mawi42"/>
+        <node id="128236" lat="48.1798519" lon="11.3953004" version="6" timestamp="2015-11-12T02:13:07Z" changeset="35252960" uid="115042" user="Filius Martii"/>
+        <node id="128238" lat="48.1792812" lon="11.3988317" version="3" timestamp="2011-02-28T11:29:59Z" changeset="7419655" uid="68010" user="ms2000"/>
+        <node id="128239" lat="48.1790623" lon="11.3989001" version="5" timestamp="2011-02-28T11:29:50Z" changeset="7419655" uid="68010" user="ms2000"/>
+        <node id="128240" lat="48.178353" lon="11.4008063" version="3" timestamp="2011-02-28T11:29:59Z" changeset="7419655" uid="68010" user="ms2000"/>
+        <node id="128241" lat="48.1784019" lon="11.401886" version="1" timestamp="2006-08-28T21:50:57Z" changeset="96746" uid="573" user="Jörg Ostertag"/>
+        <node id="128242" lat="48.1784276" lon="11.402504" version="3" timestamp="2013-09-02T08:07:31Z" changeset="17631235" uid="14390" user="BeKri"/>
+        <node id="128243" lat="48.1787905" lon="11.4023157" version="2" timestamp="2011-02-28T11:29:53Z" changeset="7419655" uid="68010" user="ms2000"/>
+        <node id="128244" lat="48.1792292" lon="11.4015166" version="2" timestamp="2007-12-29T19:25:16Z" changeset="466933" uid="8940" user="webbie"/>
+        <node id="128245" lat="48.1793208" lon="11.401036" version="2" timestamp="2007-12-29T19:25:16Z" changeset="466933" uid="8940" user="webbie"/>
+        <node id="128246" lat="48.1784328" lon="11.4040568" version="2" timestamp="2013-05-05T16:54:36Z" changeset="15986848" uid="129349" user="thomas_kregelin"/>
+        <node id="128248" lat="48.1765527" lon="11.4073774" version="7" timestamp="2015-02-17T07:54:08Z" changeset="28902422" uid="2415107" user="tklug">
+                <tag k="highway" v="crossing"/>
+                <tag k="crossing" v="uncontrolled"/>
+                <tag k="crossing_ref" v="zebra"/>
+        </node>
+        <node id="128249" lat="48.1757508" lon="11.4081728" version="5" timestamp="2011-10-07T05:51:20Z" changeset="9490818" uid="42393" user="mawi42"/>
+        <node id="128250" lat="48.1754389" lon="11.4082319" version="8" timestamp="2011-10-07T05:51:20Z" changeset="9490818" uid="42393" user="mawi42"/>
+        <node id="128252" lat="48.1726078" lon="11.4070826" version="4" timestamp="2011-02-23T13:14:13Z" changeset="7372276" uid="68010" user="ms2000"/>
+        <node id="128253" lat="48.1723252" lon="11.4069699" version="4" timestamp="2011-02-23T13:14:12Z" changeset="7372276" uid="68010" user="ms2000"/>
+        <node id="128254" lat="48.1705821" lon="11.4077851" version="3" timestamp="2011-02-23T13:14:13Z" changeset="7372276" uid="68010" user="ms2000"/>
+        <node id="128255" lat="48.169752" lon="11.4088876" version="3" timestamp="2011-02-23T13:14:13Z" changeset="7372276" uid="68010" user="ms2000"/>
+        <node id="128256" lat="48.1684264" lon="11.4103568" version="6" timestamp="2011-02-26T10:01:43Z" changeset="7398072" uid="68010" user="ms2000"/>
+        <node id="128258" lat="48.166209" lon="11.4119689" version="3" timestamp="2011-01-22T11:18:12Z" changeset="7049096" uid="68010" user="ms2000"/>
+        <node id="128262" lat="48.1654091" lon="11.4125338" version="2" timestamp="2009-02-03T21:59:31Z" changeset="106384" uid="44811" user="laufstar1"/>
+        <node id="128263" lat="48.1644922" lon="11.4131474" version="8" timestamp="2014-03-27T15:14:51Z" changeset="21346570" uid="115042" user="Filius Martii"/>
+        <node id="128264" lat="48.1634999" lon="11.4136644" version="4" timestamp="2011-04-19T22:36:50Z" changeset="7911732" uid="264500" user="Silanea"/>
+        <node id="128265" lat="48.1625481" lon="11.4138446" version="3" timestamp="2011-04-19T22:36:45Z" changeset="7911732" uid="264500" user="Silanea"/>
+        <node id="128267" lat="48.1618262" lon="11.4140815" version="6" timestamp="2016-08-29T15:20:48Z" changeset="41780252" uid="14390" user="BeKri"/>
+        <node id="128268" lat="48.1607803" lon="11.4142393" version="5" timestamp="2011-02-02T13:21:41Z" changeset="7164578" uid="264500" user="Silanea"/>
+        <node id="128269" lat="48.1602126" lon="11.4146432" version="4" timestamp="2015-05-05T20:21:27Z" changeset="30822163" uid="354141" user="Anoniman"/>
+        <node id="128270" lat="48.1600136" lon="11.4150056" version="10" timestamp="2015-05-05T20:21:27Z" changeset="30822163" uid="354141" user="Anoniman"/>
+        <node id="128271" lat="48.1592316" lon="11.4152639" version="6" timestamp="2015-05-05T20:21:27Z" changeset="30822163" uid="354141" user="Anoniman"/>
+        <node id="128272" lat="48.1590659" lon="11.4153" version="5" timestamp="2015-05-05T20:21:27Z" changeset="30822163" uid="354141" user="Anoniman"/>
+        <node id="128274" lat="48.158049" lon="11.41524" version="4" timestamp="2011-01-29T21:36:08Z" changeset="7127714" uid="264500" user="Silanea"/>
+        <node id="128276" lat="48.15669" lon="11.4160376" version="5" timestamp="2014-03-27T15:14:51Z" changeset="21346570" uid="115042" user="Filius Martii"/>
+        <node id="128277" lat="48.1563458" lon="11.4163171" version="4" timestamp="2011-01-18T22:36:39Z" changeset="7015811" uid="264500" user="Silanea"/>
+        <node id="128280" lat="48.1555813" lon="11.4190407" version="3" timestamp="2012-10-18T06:55:36Z" changeset="13540269" uid="247670" user="burt13de"/>
+        <node id="128281" lat="48.155598" lon="11.4196565" version="5" timestamp="2011-02-03T22:14:18Z" changeset="7178618" uid="264500" user="Silanea"/>
+        <node id="128282" lat="48.155751" lon="11.4202107" version="5" timestamp="2014-08-23T23:45:08Z" changeset="24967555" uid="14390" user="BeKri"/>
+        <node id="128283" lat="48.1555243" lon="11.4206216" version="5" timestamp="2014-09-25T15:36:35Z" changeset="25667820" uid="14390" user="BeKri"/>
+        <node id="128285" lat="48.1554045" lon="11.4218217" version="5" timestamp="2011-03-09T13:27:33Z" changeset="7504004" uid="264500" user="Silanea"/>
+        <node id="128288" lat="48.1554713" lon="11.4225465" version="7" timestamp="2011-01-03T09:21:31Z" changeset="6847374" uid="68010" user="ms2000"/>
+        <node id="128910" lat="48.1568312" lon="11.4156035" version="5" timestamp="2011-07-20T21:55:43Z" changeset="8783550" uid="264500" user="Silanea"/>
+        <node id="128911" lat="48.1569391" lon="11.4151883" version="5" timestamp="2011-05-04T12:56:20Z" changeset="8048713" uid="42393" user="mawi42"/>
+        <node id="128912" lat="48.1570974" lon="11.4145173" version="4" timestamp="2011-07-20T21:55:43Z" changeset="8783550" uid="264500" user="Silanea">
+                <tag k="highway" v="crossing"/>
+                <tag k="crossing" v="uncontrolled"/>
+                <tag k="crossing_ref" v="zebra"/>
+        </node>
+        <node id="128914" lat="48.1578983" lon="11.4138839" version="3" timestamp="2011-01-03T09:34:19Z" changeset="6847456" uid="68010" user="ms2000"/>
+        <node id="128916" lat="48.1620126" lon="11.4139281" version="4" timestamp="2016-08-29T15:20:48Z" changeset="41780252" uid="14390" user="BeKri">
+                <tag k="crossing" v="traffic_signals"/>
+                <tag k="highway" v="traffic_signals"/>
+        </node>
+        <node id="128917" lat="48.1621959" lon="11.4137969" version="3" timestamp="2011-01-22T11:18:12Z" changeset="7049096" uid="68010" user="ms2000"/>
+        <node id="128918" lat="48.1620509" lon="11.4141584" version="5" timestamp="2011-04-24T09:20:20Z" changeset="7950831" uid="264500" user="Silanea"/>
+        <node id="128920" lat="48.1632784" lon="11.4150131" version="2" timestamp="2011-01-22T11:18:14Z" changeset="7049096" uid="68010" user="ms2000"/>
+        <node id="128921" lat="48.1635252" lon="11.4151567" version="2" timestamp="2011-01-22T11:18:42Z" changeset="7049096" uid="68010" user="ms2000"/>
+        <node id="128922" lat="48.1638624" lon="11.4151388" version="2" timestamp="2011-01-22T11:18:35Z" changeset="7049096" uid="68010" user="ms2000"/>
+        <node id="128923" lat="48.164477" lon="11.4149125" version="2" timestamp="2011-01-22T11:18:24Z" changeset="7049096" uid="68010" user="ms2000"/>
+        <node id="128924" lat="48.1647495" lon="11.4148817" version="2" timestamp="2011-04-19T22:36:47Z" changeset="7911732" uid="264500" user="Silanea"/>
+        <node id="128925" lat="48.1652562" lon="11.4151635" version="3" timestamp="2011-01-22T11:18:29Z" changeset="7049096" uid="68010" user="ms2000"/>
+        <node id="128926" lat="48.1656648" lon="11.4155986" version="3" timestamp="2011-01-22T11:18:26Z" changeset="7049096" uid="68010" user="ms2000"/>
+        <node id="128927" lat="48.1663411" lon="11.4158235" version="2" timestamp="2011-01-22T11:18:16Z" changeset="7049096" uid="68010" user="ms2000"/>
+        <node id="128928" lat="48.1665697" lon="11.4157646" version="2" timestamp="2011-01-22T11:18:32Z" changeset="7049096" uid="68010" user="ms2000"/>
+        <node id="128929" lat="48.1669309" lon="11.4156218" version="3" timestamp="2011-01-22T11:18:23Z" changeset="7049096" uid="68010" user="ms2000"/>
+        <node id="128938" lat="48.1683275" lon="11.4151053" version="3" timestamp="2011-02-23T15:52:41Z" changeset="7373592" uid="42393" user="mawi42"/>
+        <node id="128939" lat="48.1688576" lon="11.4148992" version="4" timestamp="2011-02-23T15:52:42Z" changeset="7373592" uid="42393" user="mawi42"/>
+        <node id="128940" lat="48.1691572" lon="11.4148501" version="3" timestamp="2011-02-23T15:52:42Z" changeset="7373592" uid="42393" user="mawi42"/>
+        <node id="128941" lat="48.1702113" lon="11.4152251" version="3" timestamp="2011-02-23T15:52:42Z" changeset="7373592" uid="42393" user="mawi42"/>
+        <node id="128942" lat="48.1710068" lon="11.4157819" version="4" timestamp="2011-02-23T15:52:42Z" changeset="7373592" uid="42393" user="mawi42"/>
+        <node id="128943" lat="48.1715145" lon="11.4161967" version="4" timestamp="2011-02-23T15:52:42Z" changeset="7373592" uid="42393" user="mawi42"/>
+        <node id="128944" lat="48.1716891" lon="11.4165392" version="3" timestamp="2010-08-01T20:59:08Z" changeset="5375161" uid="162465" user="ckol"/>
+        <node id="128946" lat="48.1718458" lon="11.4167963" version="5" timestamp="2011-03-03T17:03:17Z" changeset="7447436" uid="68010" user="ms2000"/>
+        <node id="128947" lat="48.1719069" lon="11.4171663" version="7" timestamp="2014-09-07T18:19:55Z" changeset="25292495" uid="124837" user="swus"/>
+        <node id="128950" lat="48.1738811" lon="11.4199621" version="3" timestamp="2011-03-03T17:03:17Z" changeset="7447436" uid="68010" user="ms2000"/>
+        <node id="128951" lat="48.1740805" lon="11.4204454" version="4" timestamp="2013-04-13T12:04:44Z" changeset="15711922" uid="834127" user="kartler175"/>
+        <node id="128952" lat="48.1742962" lon="11.4208336" version="4" timestamp="2013-04-13T12:04:44Z" changeset="15711922" uid="834127" user="kartler175"/>
+        <node id="128953" lat="48.1744431" lon="11.4209686" version="6" timestamp="2016-08-22T12:23:43Z" changeset="41613404" uid="29003" user="zarl"/>
+        <node id="128957" lat="48.1741697" lon="11.4241487" version="5" timestamp="2014-12-08T10:00:43Z" changeset="27330200" uid="419405" user="TrafficJam"/>
+        <node id="128958" lat="48.1741502" lon="11.4255218" version="7" timestamp="2015-02-04T16:17:43Z" changeset="28613638" uid="372615" user="sennewald63"/>
+        <node id="128959" lat="48.1740797" lon="11.426256" version="5" timestamp="2013-12-24T13:16:47Z" changeset="19616781" uid="2675" user="Eckhart Wörner"/>
+        <node id="128961" lat="48.176236" lon="11.4277479" version="3" timestamp="2013-12-24T13:16:47Z" changeset="19616781" uid="2675" user="Eckhart Wörner"/>
+        <node id="128962" lat="48.175096" lon="11.4253674" version="2" timestamp="2014-05-08T14:50:49Z" changeset="22209644" uid="35560" user="Peilscheibe"/>
+        <node id="128963" lat="48.1763357" lon="11.427178" version="6" timestamp="2010-01-24T19:58:40Z" changeset="3705219" uid="6270" user="mikes">
+                <tag k="ref" v="7"/>
+                <tag k="name" v="München-Lochhausen"/>
+                <tag k="highway" v="motorway_junction"/>
+                <tag k="TMC:cid_58:tabcd_1:Class" v="Point"/>
+                <tag k="TMC:cid_58:tabcd_1:Direction" v="negative"/>
+                <tag k="TMC:cid_58:tabcd_1:LCLversion" v="8.00"/>
+                <tag k="TMC:cid_58:tabcd_1:LocationCode" v="31954"/>
+                <tag k="TMC:cid_58:tabcd_1:NextLocationCode" v="31512"/>
+                <tag k="TMC:cid_58:tabcd_1:PrevLocationCode" v="42385"/>
+        </node>
+</osm>

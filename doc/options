@@ -1,0 +1,24 @@
+-encoding
+'UTF-8'
+-protected
+-source
+'1.8'
+-sourcepath
+'/Users/rob/Desktop/map-engine/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2024. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'/Users/rob/Desktop/map-engine/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'map-engine 1.0-SNAPSHOT API'
+-linkoffline
+'https://docs.oracle.com/javase/8/docs/api' '/Users/rob/Desktop/map-engine/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'map-engine 1.0-SNAPSHOT API'
